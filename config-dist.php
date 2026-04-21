@@ -1,4 +1,5 @@
 <?php
+// test trigger 
 ///////////////////////////////////////////////////////////////////////////
 //                                                                       //
 // Moodle configuration file                                             //
@@ -7,7 +8,7 @@
 //                                                                       //
 ///////////////////////////////////////////////////////////////////////////
 //                                                                       //
-// NOTICE OF COPYRIGHT                                                   //
+// NOTICE OF COPYRIGHT                                                  //
 //                                                                       //
 // Moodle - Modular Object-Oriented Dynamic Learning Environment         //
 //          http://moodle.org                                            //
