@@ -1,5 +1,5 @@
 <?php
-// test trigger //
+// test trigger
 ///////////////////////////////////////////////////////////////////////////
 //                                                                       //
 // Moodle configuration file                                             //
